@@ -1,0 +1,18 @@
+---
+title: "ADASD Package"
+author: "Marcin Szymanski"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{ADASD Package}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+This package is my solution to the final homework for the Advanced Data Analysis Software Develoment (ADASD) with R course. The package contains 3 functions:
+
+- mode
+- shortestpath
+- perms
+
+along with all the required tests and documentation. And that's just it. Please refer to documentation for further information

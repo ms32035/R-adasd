@@ -1,0 +1,12 @@
+---
+title: "ADASD package performance summary"
+author: "Marcin Szymanski"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{ADASD package performance summary}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+TO-DO
