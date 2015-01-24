@@ -6,8 +6,9 @@ Date: 2015-01-14
 Author: Marcin Szymanski
 Maintainer: Marcin Szymanski <ms32035@gmail.com>
 Description: This package was supposted to get my exam exemption, but it won't, due to "intuitive definition of randomness"
+Depends: R (>= 3.0.0), microbenchmark (>= 0.1), igraph (>= 0.1), ggplot2 (>= 0.1)
 License: MIT + file LICENSE
-Imports: Rcpp (>= 0.11.3)
+Imports: Rcpp (>= 0.11.3) 
 LinkingTo: Rcpp
 Suggests: testthat,
     knitr

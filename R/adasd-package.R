@@ -8,4 +8,5 @@
 #' @name adasd-package
 #' @docType package
 #' @importFrom Rcpp sourceCpp
+#' @import microbenchmark igraph ggplot2
 invisible(NULL)

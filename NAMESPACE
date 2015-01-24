@@ -3,5 +3,8 @@
 export(mode)
 export(perms)
 export(shortestpath)
+import(ggplot2)
+import(igraph)
+import(microbenchmark)
 importFrom(Rcpp,sourceCpp)
 useDynLib(adasd)
